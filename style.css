@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Quite Chocotaley";
-    src: url("../fonts/Quite Chocolatey.ttf") format("truetype");
+    src: url("/Quite Chocolatey.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Montserrat";
-    src: url("../fonts/Montserrat-Bold.ttf") format("truetype");
+    src: url("/Montserrat-Bold.ttf") format("truetype");
 }
 
 *, *::after,*::before {
@@ -84,7 +84,7 @@ color: white;
 }
 
 .container {
-background-image: url(../img/Layer\ 13.png);
+background-image: url(/Layer 13.png);
 background-repeat: no-repeat;
 }
 
